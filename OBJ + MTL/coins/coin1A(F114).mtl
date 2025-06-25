@@ -19,7 +19,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/Users/Michał/Desktop/!Semestr8/VR/Dragon_Rider_Graphic_Design/BLEND/coins/coin_image.png
+map_Kd ./coin_image.png
 
 newmtl Material.003
 Ns 250.000000
