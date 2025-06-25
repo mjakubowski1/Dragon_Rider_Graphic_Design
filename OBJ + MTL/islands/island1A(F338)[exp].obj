@@ -1,6 +1,6 @@
 # Blender 4.0.1
 # www.blender.org
-mtllib cliff1A(F338)[exp].mtl
+mtllib island1A(F338)[exp].mtl
 o Plane
 v 0.292656 1.411957 0.779751
 v 0.414777 1.411861 0.764757
