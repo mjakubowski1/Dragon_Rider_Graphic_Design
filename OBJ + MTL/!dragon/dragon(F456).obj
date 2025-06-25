@@ -1,6 +1,6 @@
 # Blender 4.4.3
 # www.blender.org
-mtllib smoke(F456).mtl
+mtllib dragon(F456).mtl
 o Cube
 v 1.060518 3.482433 1.476080
 v 1.060518 5.725470 1.035579
